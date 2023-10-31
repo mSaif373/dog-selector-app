@@ -174,7 +174,6 @@ const DogInfo = () => {
                 }
             } else {
                 console.error('Failed to fetch match');
-                console.log("hi")
             }
         } catch (error) {
             console.error('Failed to fetch match:', error);
