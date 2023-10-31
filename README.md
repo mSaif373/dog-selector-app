@@ -54,11 +54,7 @@ yarn dev
 
 The development server will be available at http://localhost:5173.
 
-Folder Structure
-The project structure is organized as follows:
-
-
-Build and Deployment
+# Build and Deployment
 To build the application for production, use the following command:
 
 # Using npm
